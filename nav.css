@@ -1,0 +1,58 @@
+*{
+    background-color: aliceblue;
+    list-style: none;
+    font-size: large;
+    box-sizing: border-box;
+    
+   
+  }
+  
+  .nav-center{
+    display: flex;
+  
+    height: 10px;
+  }
+  
+  .links{
+    display: flex;
+    margin: 60px auto ;
+    gap: 10px; 
+  }
+
+  
+  .links a{
+    padding: 10px 20px;
+    text-decoration: none;
+   
+  }
+  
+  .list{
+    background-color:rgb(200, 229, 254);
+    border-radius: 20px;
+    color: black;
+   
+  }
+  .list:hover{
+    background-color:rgb(0, 4, 231);
+    border-radius: 20px;
+    color: #ffffff; 
+  }
+ 
+ 
+  
+  .links-container{
+    display: flex;
+    margin: 0%;
+    padding: 0%;
+   
+   
+  }
+  
+  button{
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: blue;
+    border-color: blue;
+  }
+  
+  

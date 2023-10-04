@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+   
+}
+
+.side-estate{
+    background: transparent;
+   margin-top: 150px;
+   text-align: center;
+   display: grid;
+   position: relative;
+
+}
+
+
+
+.newlist{
+    text-align: center;
+    position: relative;
+    margin: 20px auto ;
+    width: 400px;
+    height: auto;
+  
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.637);
+    max-width: var(--max-width);   
+}
+
+.img{
+    height: 100px;
+    width: 100px;
+}
+
+.container-grid{
+    background: transparent;
+   
+    text-align: center;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 40px;
+    
+}
+
+
+.title{
+    margin-left: 50px;
+    display: flex;
+    gap: 20px;
+}
+.titleIcon{
+    margin-left: 50px;   
+   color: rgb(71, 71, 71);
+    display: flex;
+    gap: 50px;
+}
+
+.price-tag{
+text-align: calc(20px);
+}

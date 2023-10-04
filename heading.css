@@ -1,0 +1,15 @@
+
+
+#header-font{
+   font-style:' Fantasy';
+   
+    padding: 20 autopx;
+}
+p{
+    color: grey;
+}
+.container{
+  
+    text-align: center;
+    box-sizing: border-box;
+}
